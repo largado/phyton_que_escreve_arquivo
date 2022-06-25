@@ -1,0 +1,2 @@
+conteúdo do arquivo que o phyton escreveu
+linhas 2
